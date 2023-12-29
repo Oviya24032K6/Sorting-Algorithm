@@ -61,7 +61,7 @@ print(value)
 
 
 # insert sort:
-![OUTPUT](https://github.com/Oviya24032K6/Sorting-Algorithm/assets/147139999/7bb00597-9979-48d5-a2c2-bb078d0726ba)
+![OUTPUT](https://github.com/Oviya24032K6/Sorting-Algorithm/assets/147139999/436047db-c415-4b88-b533-d10f3f228294)
 
 
 
